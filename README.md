@@ -18,7 +18,7 @@ Peak bike usage:
 ![image](https://github.com/vijayabme/bikesharing/blob/main/Resources/Trips_by_weekday.jpg)
 
 #### Trips by weekday per hour by gender:
-The bike usage is more than double males compared to females. 
+The bike usage is more than double for males compared to females. 
 ![image](https://github.com/vijayabme/bikesharing/blob/main/Resources/Trips_by_weekday_gender.jpg)
 
 #### User trips by gender by weekday:
@@ -36,4 +36,7 @@ Manhattan is one of the top starting locations indicating that there might be mo
 
 
 ## Summary
-
+- The user type charts indicate that there are equal number of subscribers and customers, but the subscription model is generating more revenue and usage.
+- The bikes are used more for short trips and the timings coincide with the commuter timings suggesting that they are probably used more for going to school or work. So having these bikes in accessible locations to schools or offices will generate more usage.
+- Top starting locations are usually in tourist spots. Having more bike stands in popular tourist spots would generate more revenue especially during the weekends where the usage is high throughout the day.
+- The number of bikes needs to be proportional to the male population as males are the highest users.
