@@ -1,9 +1,9 @@
-# bikesharing
-[link to dashboard](https://public.tableau.com/shared/XJHDKKSGM?:display_count=n&:origin=viz_share_link)
-
+# NYC Bikesharing
 ## Overview of the statistical analysis
 The purpose of the analysis is to determine if the bike sharing business in New York city would be profitable in Des Moines,Iowa. 
 Tools: Tableau
+
+[link to dashboard](https://public.tableau.com/shared/XJHDKKSGM?:display_count=n&:origin=viz_share_link)
 
 ## Results
 
